@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Internship](https://img.shields.io/badge/Internship-CodSoft-orange?style=for-the-badge)
 ![GUI Projects](https://img.shields.io/badge/Projects-GUI%20Applications-green?style=for-the-badge&logo=appveyor)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/CODSOFT?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/K-Lingesh/CODSOFT?style=for-the-badge)
 
 ---
 
